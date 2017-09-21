@@ -5,7 +5,7 @@
 module.exports = {
     appId: 'com.peerio.messenger-staging', // must be the same as in package.json
     
-    whiteLabelBuild: true,
+    whiteLabelBuild: false,
     // App-unique name of keychain service for storing Account Key.
     // IMPORTANT: Changing this for the same app will invalidate autologin for all users.
     keychainService: 'PeerioMessengerStaging',
