@@ -28,6 +28,12 @@
             "manifests": [
                 "github:PeerioTechnologies/peerio-desktop-staging"
             ]
+        },
+        "peerio": {
+            "appId": "com.peerio.messenger-staging",
+            "keychainService": "PeerioMessengerStaging",
+            "socketServerUrl": "wss://hocuspocus.peerio.com",
+            "usePeerioUpdater": true
         }
     }
 }
