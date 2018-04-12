@@ -10,8 +10,8 @@
         "translator": {
             "stringReplacements": [
                 {
-                    original: "Peerio",
-                    replacement: "Pinkio"
+                    "original": "Peerio",
+                    "replacement": "Pinkio"
                 }
             ],
         },
