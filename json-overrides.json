@@ -7,6 +7,14 @@
             "url": "git+https://github.com/PeerioTechnologies/peerio-desktop-staging.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>",
+        "translator": {
+            "stringReplacements": [
+                {
+                    original: "Peerio",
+                    replacement: "Pinkio"
+                }
+            ],
+        },
         "build": {
             "appId": "com.peerio.messenger-staging",
             "productName": "Peerio Staging",
