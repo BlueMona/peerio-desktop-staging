@@ -13,7 +13,7 @@
                     "original": "Peerio",
                     "replacement": "Pinkio"
                 }
-            ],
+            ]
         },
         "build": {
             "appId": "com.peerio.messenger-staging",
