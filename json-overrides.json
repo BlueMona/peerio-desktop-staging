@@ -7,14 +7,6 @@
             "url": "git+https://github.com/PeerioTechnologies/peerio-desktop-staging.git"
         },
         "author": "Technologies Peerio Inc. <support@peerio.com>",
-        "translator": {
-            "stringReplacements": [
-                {
-                    "original": "Peerio",
-                    "replacement": "Pinkio"
-                }
-            ]
-        },
         "build": {
             "appId": "com.peerio.messenger-staging",
             "productName": "Peerio Staging",
@@ -41,7 +33,16 @@
             "appId": "com.peerio.messenger-staging",
             "keychainService": "PeerioMessengerStaging",
             "socketServerUrl": "wss://hocuspocus.peerio.com",
-            "usePeerioUpdater": false
+            "translator": {
+                "stringReplacements": [
+                    {
+                        "original": "Peerio",
+                        "replacement": "Pinkio"
+                    }
+                ]
+            }
+        },
+
         }
     }
 }
