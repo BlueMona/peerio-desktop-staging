@@ -13,17 +13,7 @@
             "win": {
                 "publisherName": "Peerio Technologies Inc."
             }
-        }
-    },
-    "app/package.json": {
-        "name": "peerio-staging",
-        "productName": "Peerio Staging",
-        "description": "Peerio Staging",
-        "repository": {
-            "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/peerio-desktop-staging.git"
         },
-        "author": "Technologies Peerio Inc. <support@peerio.com>",
         "updater": {
             "manifests": [
                 "github:PeerioTechnologies/peerio-desktop-staging"
