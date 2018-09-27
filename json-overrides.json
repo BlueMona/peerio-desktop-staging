@@ -1,6 +1,7 @@
 {
     "package.json": {
         "name": "peerio-staging",
+        "productName": "Peerio Staging",
         "description": "Peerio Staging",
         "repository": {
             "type": "git",
